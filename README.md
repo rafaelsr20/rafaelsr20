@@ -1,6 +1,6 @@
 ## 💻 Rafael de Souza Rodrigues
 
-Estudante de Análise e Desenvolvimento de Sistemas (penúltimo semestre), em busca de oportunidade de estágio na área de desenvolvimento.
+Estudante de Análise e Desenvolvimento de Sistemas, em busca de oportunidade de estágio na área de desenvolvimento.
 
 Desenvolvo projetos utilizando Java, JavaScript e Node.js, aplicando conceitos de estruturas de dados, APIs REST e organização em camadas (controller, service e model).
 
