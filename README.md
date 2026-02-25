@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 Desenvolvo projetos utilizando Java, JavaScript e Node.js, aplicando conceitos de estruturas de dados, APIs REST e organização em camadas (controller, service e model).
 
-Tenho interesse em desenvolvimento back-end e full stack, sempre buscando aprimorar meus conhecimentos por meio de projetos práticos e estudos contínuos.
+Tenho interesse em desenvolvimento back-end, sempre buscando aprimorar meus conhecimentos por meio de projetos práticos e estudos contínuos.
 
 
 
