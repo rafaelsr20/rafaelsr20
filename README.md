@@ -2,10 +2,11 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 
+Possuo experiência com suporte a usuários e utilização de sistemas informatizados, além de conhecimentos em ambiente Windows, redes de computadores (conceitos básicos) e ferramentas digitais.
+
 Desenvolvo projetos utilizando Java, JavaScript e Node.js, aplicando conceitos de estruturas de dados, APIs REST e organização em camadas (controller, service e model).
 
-Tenho interesse em desenvolvimento back-end, sempre buscando aprimorar meus conhecimentos por meio de projetos práticos e estudos contínuos.
-
+Tenho interesse em atuar na área de tecnologia, especialmente em suporte técnico e desenvolvimento back-end, buscando aprimorar meus conhecimentos por meio de projetos práticos e estudos contínuos.
 
 
 
