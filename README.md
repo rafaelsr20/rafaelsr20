@@ -2,11 +2,13 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Possuo experiência com suporte a usuários e utilização de sistemas informatizados, além de conhecimentos em ambiente Windows, redes de computadores (conceitos básicos) e ferramentas digitais.
+Desenvolvedor em formação com foco em aplicações web (backend e frontend), utilizando JavaScript, Node.js e Java. Experiência na construção de APIs REST, manipulação de dados com PostgreSQL e organização de projetos em camadas (controller, service e model).
 
-Desenvolvo projetos utilizando Java, JavaScript e Node.js, aplicando conceitos de estruturas de dados, APIs REST e organização em camadas (controller, service e model).
+Atualmente aprofundando conhecimentos em testes automatizados, metodologias ágeis (Scrum/Kanban), além de conceitos de Inteligência Artificial e computação em nuvem (Google Cloud Platform).
 
-Tenho interesse em atuar na área de tecnologia, especialmente em suporte técnico e desenvolvimento back-end, buscando aprimorar meus conhecimentos por meio de projetos práticos e estudos contínuos.
+Em transição de carreira da área da saúde para tecnologia, trazendo experiência com análise de informações, resolução de problemas e atuação em ambientes críticos.
+
+Busco oportunidades para evoluir como desenvolvedor e contribuir com soluções eficientes e escaláveis.
 
 
 
